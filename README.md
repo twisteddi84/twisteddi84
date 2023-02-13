@@ -1,5 +1,5 @@
-### Olá eu sou o Diogo Almeida
-## Sou um pássaro Maluco
+<div align="center">### Olá eu sou o Diogo Almeida</div>
+<div align="center">### Olá eu sou o Diogo Almeida</div>
 <!--<table width="100%"> 
   <tr>
 &nbsp; <br> [![Spotify](https://novatorem-6udbseslu-twisteddi84.vercel.app/api/spotify?background_color=ffffff)](https://open.spotify.com/user/diogoalmeida84)
