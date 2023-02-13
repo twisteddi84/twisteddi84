@@ -1,4 +1,4 @@
-<div align="center">Olá eu sou o Diogo Almeida</div>
+<div align="center" font_size=12>Olá eu sou o Diogo Almeida</div>
 <div align="center">Olá eu sou o Diogo Almeida</div>
 <!--<table width="100%"> 
   <tr>
