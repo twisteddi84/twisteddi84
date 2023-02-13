@@ -1,8 +1,8 @@
 ### Olá eu sou o Diogo Almeida
 ## Sou um pássaro Maluco
-<div width="100%"> 
+<table width="100%"> 
 &nbsp; <br> [![Spotify](https://novatorem-6udbseslu-twisteddi84.vercel.app/api/spotify?background_color=ffffff)](https://open.spotify.com/user/diogoalmeida84)
-</div>
+</table>
 
 <!--
 **twisteddi84/twisteddi84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
