@@ -1,9 +1,9 @@
 ### Diogo Almeida
 <table width="100%"> 
   <tr>
-  <td width="50%">
+  <td width="100%">
 
-&nbsp; <br> [![Spotify](https://novatorem-6udbseslu-twisteddi84.vercel.app/api/spotify?background_color=0d1117)](https://open.spotify.com/user/diogoalmeida84)
+&nbsp; <br> [![Spotify](https://novatorem-6udbseslu-twisteddi84.vercel.app/api/spotify?background_color=ffffff)](https://open.spotify.com/user/diogoalmeida84)
 
   </td>
   </tr>
