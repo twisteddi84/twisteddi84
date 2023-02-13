@@ -6,7 +6,7 @@
   </tr>
 </table>-->
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem-6udbseslu-twisteddi84.vercel.app/api/spotify&border_color=ffffff)](https://open.spotify.com/user/diogoalmeida84)
+  [![Spotify](https://novatorem-6udbseslu-twisteddi84.vercel.app/api/spotify?background_color=ffffff)](https://open.spotify.com/user/diogoalmeida84)
 </div>
 
 <!--
