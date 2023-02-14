@@ -2,8 +2,8 @@
   <h2>DIOGO ALMEIDA</h2>
 </div>
 
-<div align="center">
-  <h2>Spotify Live:</h2>
+<div>
+  <h3>Spotify Live:</h3>
 </div>
 
 
