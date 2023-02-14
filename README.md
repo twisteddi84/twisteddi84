@@ -4,11 +4,9 @@
 
 
 
-
-<!--&nbsp;<div align="center">
+&nbsp;<div align="center">
   &nbsp;[![Spotify](https://novatorem-6udbseslu-twisteddi84.vercel.app/api/spotify?background_color=111111&border_color=ffffff)](https://open.spotify.com/user/diogoalmeida84)
 </div>
--->
 
 <!--
 **twisteddi84/twisteddi84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
