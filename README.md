@@ -5,6 +5,7 @@
 <div>
   <h3>Spotify Live:</h3>
 </div>
+
 &nbsp;<div align="center">
   &nbsp;[![Spotify](https://novatorem-6udbseslu-twisteddi84.vercel.app/api/spotify?background_color=111111&border_color=ffffff)](https://open.spotify.com/user/diogoalmeida84)
 </div>
