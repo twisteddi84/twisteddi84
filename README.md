@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twisteddi84&label=Profile%20views&color=0e75b6&style=flat" alt="twisteddi84" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=twisteddi84" alt="twisteddi84" /></a> </p>
-
 - 🔭 I’m currently working on [Website Detective](https://websitedetective.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/twisteddi84?tab=repositories](https://github.com/twisteddi84?tab=repositories)
